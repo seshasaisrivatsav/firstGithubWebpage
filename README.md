@@ -7,7 +7,9 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 # deploying to gituhub
 
 ng build --prod --base-href https://seshasaisrivatsav.github.io/firstGithubWebpage/
+
 ngh
+
 tutorial: https://www.youtube.com/watch?v=nxV3weqMzYo&spfreload=10
 
 
