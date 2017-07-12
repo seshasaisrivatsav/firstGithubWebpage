@@ -2,6 +2,15 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
+
+
+# deploying to gituhub
+
+ng build --prod --base-href https://seshasaisrivatsav.github.io/firstGithubWebpage/
+ngh
+tutorial: https://www.youtube.com/watch?v=nxV3weqMzYo&spfreload=10
+
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
